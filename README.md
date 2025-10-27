@@ -26,5 +26,3 @@ Local CSV files provided for staff and their schedules.
 - Data cleaned and merged successfully
 - Correlation heatmap revealed relationships between numerical variables
 - Visualization provided clear patterns in staff behavior and scheduling trends
-
-## Files
